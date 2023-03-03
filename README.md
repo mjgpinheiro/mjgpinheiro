@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjgpinheiro
 - 👀 I’m interested in computational physics and econophysic
-- 🌱 I’m currently learning pythong for finances
+- 🌱 I’m currently learning python for finances
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mjgpinheiro@gmail.com
 
